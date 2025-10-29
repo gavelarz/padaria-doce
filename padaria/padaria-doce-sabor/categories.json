@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Doces",
+    "description": "Doces variados",
+    "icon": "🍰"
+  },
+  {
+    "id": 2,
+    "name": "Bolos",
+    "description": "Bolos frescos",
+    "icon": "🎂"
+  },
+  {
+    "id": 3,
+    "name": "Pães",
+    "description": "Pães artesanais",
+    "icon": "🍞"
+  },
+  {
+    "id": 4,
+    "name": "Salgados Especiais",
+    "description": "Salgados quentes",
+    "icon": "🥖"
+  },
+  {
+    "id": 5,
+    "name": "Bebidas",
+    "description": "Bebidas quentes e frias",
+    "icon": "☕"
+  }
+]
